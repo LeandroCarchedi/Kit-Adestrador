@@ -1,0 +1,17 @@
+KIT ADESTRADOR PRO — Versão MAXXIMA
+
+Extraia o ZIP e abra index.html no navegador. Mantenha os demais arquivos e a pasta assets ao lado do HTML.
+
+Esta versão usa a estrutura e as regras responsivas da referência checklistdoprodutodigital.com.br/v3/, com a sequência de vendas conferida no Template Oficial MAXXIMA.json enviado pelo usuário. A pedido do usuário, o bloco de demonstrações foi removido; os 20 blocos restantes foram preservados.
+
+Adaptações: copy do Kit Adestrador PRO, amarelo/preto/branco, foto e biografia do Lucão, hero comparativo aprovado e preço R$ 67,00 nas duas ofertas. Não foi definido parcelamento.
+
+O checkout está pendente. Os dois botões mostram um aviso e não realizam cobranças.
+Os blocos de provas e bônus usam demonstrações do kit e sua aplicação, sem depoimentos inventados ou novos produtos prometidos.
+Os mockups são ilustrativos; os arquivos do produto não integram este pacote do site.
+
+As fontes e imagens estão locais. As novas imagens fornecidas pelo usuário foram aplicadas nos blocos correspondentes, incluindo as variantes para celular e os dois cards de oferta. Os seis valores riscados da recapitulação são R$147,00, R$47,00, R$47,00, R$37,00, R$47,00 e R$47,00. Ícones de benefícios em amarelo. Ajustes de largura mínima, quebra de texto e altura automática nos cards para acomodar a copy. Verificações: integridade dos arquivos, ordem dos 20 blocos, 7 perguntas no FAQ, duas ofertas e funcionamento do aviso via JavaScript.
+A conferência visual completa no navegador não foi concluída devido à restrição de acesso à página local na ferramenta de revisão.
+
+Imagem do kit gerada com a ferramenta integrada Imagegen.
+Prompt: Use case product-mockup. Create one polished photorealistic commercial product mockup image for a Brazilian dog trainer's digital document kit. Landscape 3:2, light neutral gray seamless studio, black white vivid yellow (#ffd323) palette. A collection of four separate elegant document folders / slim workbook covers standing on a surface with a white laptop behind them and a black pen. Each cover is black with yellow header and restrained white typography. Text on covers, exact Portuguese: 'PRÉ-ATENDIMENTO', 'AVALIAÇÃO INICIAL', 'PROPOSTA COMERCIAL', 'CONTRATO'. Small brand on each: 'ADESTRADOR PRO'. Subtle simple dog outline emblem only. Show realistic editable sheets visible beside folders, professional forms and signature lines, no financial imagery, no money, no extra products, no fake screenshots, no people. Slight perspective with soft shadows, premium realistic 3D studio photography, clearly legible typography, all four folders equally visible, no cropped products.
