@@ -41,3 +41,6 @@ summary{min-height:48px}summary:focus-visible,a:focus-visible,button:focus-visib
 .elementor-207 .elementor-element.elementor-element-a17a8ff .elementor-icon-list-icon{flex-shrink:0;margin-top:4px}
 @media(max-width:767px){.elementor-207 .elementor-element.elementor-element-115c64d{grid-template-columns:minmax(0,1fr);row-gap:24px}.elementor-207 .elementor-element.elementor-element-a17a8ff .elementor-icon-list-item>.elementor-icon-list-text{font-size:14px;line-height:1.5}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+/* Cores dos emojis no bloco de duas escolhas */
+.elementor-207 .elementor-element.elementor-element-2426b7ce .elementor-icon,.elementor-207 .elementor-element.elementor-element-2426b7ce .elementor-icon svg,.elementor-207 .elementor-element.elementor-element-2426b7ce .elementor-icon svg *{color:#ef3434!important;fill:#ef3434!important}
+.elementor-207 .elementor-element.elementor-element-4cbc5d7c .elementor-icon,.elementor-207 .elementor-element.elementor-element-4cbc5d7c .elementor-icon svg,.elementor-207 .elementor-element.elementor-element-4cbc5d7c .elementor-icon svg *{color:#32c52b!important;fill:#32c52b!important}
